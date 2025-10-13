@@ -1,8 +1,0 @@
-# --- AUTO START HOTSPOT ON TERMINAL OPEN ---
-if nmcli radio wifi | grep -q "enabled"; then
-    echo "📡 Menyalakan hotspot..."
-    nmcli device wifi hotspot ifname wlan0 ssid "camai-hla-iaa29" password "pt_otics1*"
-else
-    echo "⚠️ WiFi adapter tidak aktif!"
-fi
-# --- END AUTO HOTSPOT ---
