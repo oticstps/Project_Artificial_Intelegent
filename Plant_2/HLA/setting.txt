@@ -6,3 +6,8 @@ else
     echo "⚠️ WiFi adapter tidak aktif!"
 fi
 # --- END AUTO HOTSPOT ---
+
+
+# --- GET MODEL AI ---
+https://drive.google.com/file/d/1yiGR8aZizmtciiQt3-pA-g2dOxXjQGsr/view?usp=sharing
+# --- END MDOEL AI ---
