@@ -1,5 +1,0 @@
-program otomatis mati :
-
-
-sudo visudo
-jetson_name_wa ALL=(ALL) NOPASSWD: ALL
