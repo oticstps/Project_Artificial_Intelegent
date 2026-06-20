@@ -1,0 +1,20 @@
+89% of storage used … 
+If you run out, you can't create, edit, and upload files. Get 30 GB for IDR 14,500/mo.
+
+train: /content/drive/MyDrive/Otics_Indonesia/Train_Line_HLA_32/train
+val: /content/drive/MyDrive/Otics_Indonesia/Train_Line_HLA_32/val
+
+nc: 9
+names:
+  [
+    "hla",
+    "hla_terlentang",
+    "hla_terbalik",
+    "k_80",
+    "k_88",
+    "k_108",
+    "b_80",
+    "b_88",
+    "b_108"
+  ]
+
