@@ -39,9 +39,9 @@ ultralytics.checks()
 # model = YOLO('yolov8m.yaml').load('yolov8m.pt')  # build from YAML and transfer weights
 
 # # Train the model
-# results = model.train(data='/content/drive/MyDrive/Otics_Indonesia/Train_Line_HLA_30/data.yaml', epochs=100, imgsz=640)
+# results = model.train(data='/content/drive/MyDrive/Otics Indonesia/Tema_Perbaikan_Kamera_HLA_IAA_31/data.yaml', epochs=100, imgsz=640)
 
-#!yolo task=detect mode=train model=yolov8n.pt data=/content/drive/MyDrive/Project_HLA/data.yaml epochs=150 imgsz=640
+#!yolo task=detect mode=train model=yolov8n.pt data=/content/drive/MyDrive/Otics Indonesia/Tema_Perbaikan_Kamera_HLA_IAA_31/data.yaml epochs=150 imgsz=640
 
 
 
