@@ -51,7 +51,7 @@ model = YOLO('yolov8m.pt')
 
 # Training dengan parameter yang dioptimasi
 results = model.train(
-    data='/content/drive/MyDrive/Otics_Indonesia/Train_Line_HLA_32/data.yaml',
+    data='/content/drive/MyDrive/Otics Indonesia/Tema_Perbaikan_Kamera_HLA_IAA_31/data.yaml',
     epochs=100,
     imgsz=640,
     batch=16,           # Sesuaikan dengan GPU memory (16/32/64)
